@@ -1,2 +1,2 @@
 # Payroll_Java
-# This
+This program is my activity for our Integrated Programming Technologies this is pure swing java.
